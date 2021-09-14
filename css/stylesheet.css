@@ -32,13 +32,7 @@ p{
     line-height: 2;
 }
 
-hr{
-    border: dotted var(--text) 16px;
-    border-bottom: none;
-    margin: 5rem auto;
-    width: 10%;
 
-}
 
 .middle-container{
     margin: 5rem 0;
@@ -59,6 +53,47 @@ hr{
     height: 100%;
     width: auto;
 }
+
+.skill-row{
+    text-align: left;
+    margin: 2rem auto;
+    width: 50%;
+    overflow: hidden;
+    
+}
+
+.code-img{
+    width: 25% ;
+    float: left;
+    margin-right: 5rem ;
+    border-radius: 15% ; 
+    
+}
+
+hr{
+    border: dotted var(--text) 15px;
+    border-bottom: none;
+    margin: 5rem auto;
+    width: 15%;
+}
+
+.Hobby-img{
+
+    width: 30%;
+    float: right;
+    border-radius: 15%;
+
+}
+
+.h3h3{
+    text-align: right;
+    margin: 2rem auto;
+    width: 50%;
+    overflow: hidden;
+
+}
+
+
 
 
 /* h1 {
